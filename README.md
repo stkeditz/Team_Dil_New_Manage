@@ -2,7 +2,7 @@
 <!--Project Title Image-->
 
 <p align="center">
-  <img src="https://graph.org//file/a5b622bc803c3f66e5fe5.png"/>
+  <img src="https://telegra.ph/file/4003a20cb229ba3f57524.jpg"/>
 </p>
 
 <!--Project Title Image-->
